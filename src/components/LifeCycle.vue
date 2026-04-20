@@ -24,6 +24,7 @@ onBeforeUnmount(() => {
 onUnmounted(() => {
   console.log('onUnmounted')
 })
+
 </script>
 
 <template>
